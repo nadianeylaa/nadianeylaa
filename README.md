@@ -2,7 +2,7 @@
   <img alt="cover-github" src="https://raw.githubusercontent.com/nadianeyl/nadianeyl/master/cover.png">
 </div>
 <div align="center">
-  <a href="https://nadiannis.com" target="_blank"><img alt="Website" src="https://shields.io/badge/Personal%20Website-3655FF?style=for-the-badge"></a>
+  <a href="https://nadianeyla.com" target="_blank"><img alt="Website" src="https://shields.io/badge/Personal%20Website-3655FF?style=for-the-badge"></a>
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/nadianeyl" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
